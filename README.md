@@ -12,5 +12,4 @@ Java window displaying galaxy with planets randomly placed, when you click on th
 
 ## Updates!
 - Currently have panel and gridlayout 
-> Unfinished to be continued next GWC meeting
 > Next meeting: add images in random locations and buttons with info
