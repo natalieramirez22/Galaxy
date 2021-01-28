@@ -1,5 +1,6 @@
 //GWC Java Space
 //Create window and frame
+//Galaxy class
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
