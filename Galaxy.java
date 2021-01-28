@@ -4,8 +4,6 @@
 
 import java.awt.*;
 import javax.swing.*;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
 import java.awt.Color;
 
 //Grid layout and randomly place planets on panel
