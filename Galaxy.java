@@ -2,9 +2,13 @@
 //Create window and frame
 //Galaxy class
 
+import java.awt.*;
+import javax.swing.*;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.Color;
+
+//Grid layout and randomly place planets on panel
 
 public class Galaxy extends JPanel {
    
@@ -17,6 +21,7 @@ public class Galaxy extends JPanel {
       JFrame window = createFrame();
       createJPanel();
       window.add(this);
+      window.setLayout(new GridLayout(5, 5)); //5 rows by 5 cols
    }
    
    private JFrame createFrame() {
