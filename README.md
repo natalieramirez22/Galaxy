@@ -1,15 +1,13 @@
 # Galaxy
-Java galaxy with information on each planet and graphics
+Java window graphic displaying solar system with the sun, planets, and orbits.
 
-## What
-Java window displaying galaxy with planets randomly placed, when you click on the planet info about that planet appears
+# What I Learned
+* Java, specifically Graphics
 
 ## Why
-- Girls Who Code personal project between Natalie Ramirez, Courtney Quinn, Mrs. Telly
+* Girls Who Code personal project between Natalie Ramirez, Courtney Quinn, Mrs. Kelly
+* Started in 2020, continuing progress in 2024
 
 ## Future Ideas
-- Add text field to button so user can put in their own information about the planets
-
-## Updates!
-- Currently have panel and gridlayout 
-> Next meeting: add images in random locations and buttons with info
+* Make planets clickable to learn information about them
+* Be able to drag planets around orbit and calculate distances, incorporate physics
